@@ -1,1 +1,1 @@
-# simple-pagination
+# treehouse-project2
